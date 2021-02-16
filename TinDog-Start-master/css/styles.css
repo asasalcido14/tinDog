@@ -132,6 +132,19 @@ right: 30%;
 #cta{
   background-color: #ff4c68;
   color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+.cta-heading{
+  font-family: 'Russo One';
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+/* footer section */
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+  
 }
 
 @media (max-width: 1028px) {
