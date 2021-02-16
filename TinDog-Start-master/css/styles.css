@@ -127,3 +127,19 @@ right: 30%;
 .pricing-column{
   padding: 3% 2%;
 }
+
+/* CTA section */
+#cta{
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+@media (max-width: 1028px) {
+  #title{
+    text-align: center;
+  }
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
